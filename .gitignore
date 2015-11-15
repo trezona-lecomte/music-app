@@ -12,3 +12,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+
+# Client-side file - elm packages & compiled files.
+elm-stuff
+elm.js
